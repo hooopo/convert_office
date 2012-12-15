@@ -3,6 +3,7 @@ ConvertOffice
 
 It is a ruby Wrapper of [jodconverter][1] Which is used to convert office format to another office format/html 
 [1]: http://www.artofsolving.com/opensource/jodconverter.
+http://paramitech.com/2010/08/convert-open-office-document-to-another-open-office-format/
 
 Install
 -------
